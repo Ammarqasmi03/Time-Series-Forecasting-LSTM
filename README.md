@@ -4,7 +4,8 @@
 - Data Cleaning
 - StandardScaler
 - Multi-output forecasting
-- LSTM Model
+- LSTM Model/GRU Model
+- 
 
 ## Metrics:
 - MSE
