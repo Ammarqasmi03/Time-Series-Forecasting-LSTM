@@ -15,4 +15,4 @@
 BHARTIARTL stock data
 
 ## Author:
-Your Name
+Ammar
