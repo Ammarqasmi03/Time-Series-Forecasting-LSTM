@@ -21,7 +21,7 @@
 BHARTIARTL stock data
 
 ## Author:
-Name : Ammar
-Profession : Student
-Course : MCA
+Name : Ammar,
+Profession : Student,
+Course : MCA,
 College : JAMIA MILLIA ISLAMIA
